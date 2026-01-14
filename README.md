@@ -65,7 +65,8 @@ The Power BI dashboard shows the complete picture of loan performance using char
 
 Filters like Loan Status, Purpose, and Employee Length help users analyze specific data easily.
 
-What is the overall performance of the loan portfolio?
+1) What is the overall performance of the loan portfolio?
+
 ✅ Key Insight:
 
 The dashboard shows that the total loan amount is 436 million, out of which a large portion of loans are successfully repaid. This indicates that the loan portfolio is financially stable and well managed.
@@ -74,7 +75,8 @@ The dashboard shows that the total loan amount is 436 million, out of which a la
 
 A healthy loan portfolio means that most customers are paying their loans on time. This reduces losses for the financial institution and increases trust in its lending system. A high repayment rate also shows that loan approval policies are effective and customers are financially capable of repayment.
 
-2️⃣ What is the distribution of loans by loan status?
+2️) What is the distribution of loans by loan status?
+
 ✅ Key Insight:
 
 The donut chart shows that Fully Paid loans account for 80.63% (351M) of the total loan amount. Charged-off loans contribute 15.04% (66M), while the remaining portion consists of current loans that are still active.
@@ -83,7 +85,8 @@ The donut chart shows that Fully Paid loans account for 80.63% (351M) of the tot
 
 Most loans being fully paid is a positive sign for the company. Charged-off loans represent customers who failed to repay, which causes financial loss. Since charged-off loans are a smaller portion, it shows that the company has controlled credit risk well. Current loans must be monitored closely to ensure timely repayment.
 
-3️⃣ How do loan terms affect installment amounts?
+3️) How do loan terms affect installment amounts?
+
 ✅ Key Insight:
 
 Loans with a 36-month term contribute 70.37% (8.87M) of total installment payments, while 60-month loans contribute 29.63% (3.74M).
@@ -92,7 +95,8 @@ Loans with a 36-month term contribute 70.37% (8.87M) of total installment paymen
 
 Short-term loans require higher monthly payments but are repaid faster. This reduces long-term risk for the lender. Long-term loans have lower monthly installments but carry higher risk because customers must repay over a longer time period. This insight helps banks prefer shorter loan durations.
 
-4️⃣ How does loan amount change month by month?
+4️) How does loan amount change month by month?
+
 ✅ Key Insight:
 
 The bar chart shows a steady increase in loan amount throughout the year, with the highest loan disbursement in December (54M) and the lowest in January and February (25M).
@@ -101,7 +105,8 @@ The bar chart shows a steady increase in loan amount throughout the year, with t
 
 This pattern suggests that customers take more loans towards the end of the year, possibly due to festivals, personal expenses, or year-end financial needs. Understanding this trend helps financial institutions plan funds, staff, and marketing activities during high-demand periods.
 
-5️⃣ What are the most common loan purposes?
+5️) What are the most common loan purposes?
+
 ✅ Key Insight:
 
 Debt consolidation loans have the highest loan amount (232M), followed by credit card loans (59M) and car loans (10M).
@@ -110,7 +115,8 @@ Debt consolidation loans have the highest loan amount (232M), followed by credit
 
 Many customers take loans to combine multiple debts into one, making repayment easier. Credit card loans show short-term borrowing behavior, while car loans indicate asset-based lending. This information helps banks design better loan products based on customer needs.
 
-6️⃣ How does income verification impact loan performance?
+6️) How does income verification impact loan performance?
+
 ✅ Key Insight:
 
 Loans with verified or source-verified income show better repayment behavior compared to non-verified income loans.
@@ -119,7 +125,8 @@ Loans with verified or source-verified income show better repayment behavior com
 
 Income verification ensures that customers have a stable income source. Verified customers are more reliable and have a lower chance of default. This highlights the importance of strict income verification during loan approval.
 
-7️⃣ What is the relationship between customer income and loan amount?
+7️) What is the relationship between customer income and loan amount?
+
 ✅ Key Insight:
 
 Customers with higher annual income tend to take larger loan amounts and show better repayment performance.
@@ -128,7 +135,8 @@ Customers with higher annual income tend to take larger loan amounts and show be
 
 Higher-income customers are financially more stable and can handle higher EMIs. This reduces risk for lenders and improves overall loan recovery.
 
-8️⃣ How does employment length affect loan repayment?
+8️) How does employment length affect loan repayment?
+
 ✅ Key Insight:
 
 Customers with longer employment history show better loan repayment behavior compared to customers with short or unstable employment.
@@ -137,7 +145,8 @@ Customers with longer employment history show better loan repayment behavior com
 
 Employment length reflects job stability. A stable job provides consistent income, making loan repayment easier. This insight helps banks give preference to customers with longer employment history.
 
-9️⃣ What is the impact of interest rate on loan behavior?
+9️)What is the impact of interest rate on loan behavior?
+
 ✅ Key Insight:
 
 Loans with higher interest rates show a higher probability of being charged off.
@@ -146,7 +155,8 @@ Loans with higher interest rates show a higher probability of being charged off.
 
 High interest rates increase monthly installments, making repayment difficult for customers. This insight helps banks balance interest rates to reduce default risk while maintaining profitability.
 
-🔟 What does the dashboard reveal about overall customer risk?
+10) What does the dashboard reveal about overall customer risk?
+
 ✅ Key Insight:
 
 Customers with unverified income, high interest rates, and longer loan terms represent higher credit risk.
