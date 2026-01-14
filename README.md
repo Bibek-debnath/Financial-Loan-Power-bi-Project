@@ -65,6 +65,10 @@ The Power BI dashboard shows the complete picture of loan performance using char
 
 Filters like Loan Status, Purpose, and Employee Length help users analyze specific data easily.
 
+<img width="1228" height="685" alt="Image" src="https://github.com/user-attachments/assets/a1f831a2-ff8e-47dd-ba40-e12ce0d45485" />
+
+
+
 1) What is the overall performance of the loan portfolio?
 
 ✅ Key Insight:
