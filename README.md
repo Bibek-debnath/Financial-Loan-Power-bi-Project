@@ -65,47 +65,95 @@ The Power BI dashboard shows the complete picture of loan performance using char
 
 Filters like Loan Status, Purpose, and Employee Length help users analyze specific data easily.
 
-📌 Loan Status Analysis
+What is the overall performance of the loan portfolio?
+✅ Key Insight:
 
-One of the most important parts of this project is loan status analysis.
+The dashboard shows that the total loan amount is 436 million, out of which a large portion of loans are successfully repaid. This indicates that the loan portfolio is financially stable and well managed.
 
-The dashboard shows that the majority of loans are Fully Paid, which means most customers are successfully repaying their loans. This is a positive sign for the company. A smaller portion of loans is Charged Off, which means customers failed to repay their loans and the company faced losses. Some loans are still Current, meaning they are active and repayment is ongoing.
+📘 Explanation:
 
-This analysis helps banks understand how healthy their loan portfolio is.
+A healthy loan portfolio means that most customers are paying their loans on time. This reduces losses for the financial institution and increases trust in its lending system. A high repayment rate also shows that loan approval policies are effective and customers are financially capable of repayment.
 
-📌 Loan Term Analysis
+2️⃣ What is the distribution of loans by loan status?
+✅ Key Insight:
 
-Loans are generally given for 36 months or 60 months.
+The donut chart shows that Fully Paid loans account for 80.63% (351M) of the total loan amount. Charged-off loans contribute 15.04% (66M), while the remaining portion consists of current loans that are still active.
 
-From the dashboard, it is clear that 36-month loans contribute more to total installment payments compared to 60-month loans. Short-term loans are usually safer because customers repay them faster, reducing long-term risk.
+📘 Explanation:
 
-This insight helps banks focus more on shorter-term loans to maintain financial stability.
+Most loans being fully paid is a positive sign for the company. Charged-off loans represent customers who failed to repay, which causes financial loss. Since charged-off loans are a smaller portion, it shows that the company has controlled credit risk well. Current loans must be monitored closely to ensure timely repayment.
 
-📌 Monthly Loan Trend Analysis
+3️⃣ How do loan terms affect installment amounts?
+✅ Key Insight:
 
-The dashboard also shows loan amount by month.
+Loans with a 36-month term contribute 70.37% (8.87M) of total installment payments, while 60-month loans contribute 29.63% (3.74M).
 
-It is observed that loan amounts gradually increase as the year progresses. The highest loan disbursement happens in the later months, especially around November and December. This may be due to festivals, year-end expenses, or personal financial needs.
+📘 Explanation:
 
-This trend helps banks plan their funds and prepare for high loan demand during specific months.
+Short-term loans require higher monthly payments but are repaid faster. This reduces long-term risk for the lender. Long-term loans have lower monthly installments but carry higher risk because customers must repay over a longer time period. This insight helps banks prefer shorter loan durations.
 
-📌 Loan Purpose Analysis
+4️⃣ How does loan amount change month by month?
+✅ Key Insight:
 
-Different people take loans for different reasons.
+The bar chart shows a steady increase in loan amount throughout the year, with the highest loan disbursement in December (54M) and the lowest in January and February (25M).
 
-The analysis shows that Debt Consolidation has the highest loan amount. This means many customers take loans to combine multiple debts into one. Credit card loans and car loans also form a large portion of total loans.
+📘 Explanation:
 
-This information helps banks understand customer needs and design better loan products.
+This pattern suggests that customers take more loans towards the end of the year, possibly due to festivals, personal expenses, or year-end financial needs. Understanding this trend helps financial institutions plan funds, staff, and marketing activities during high-demand periods.
 
-📌 Customer Income & Risk Analysis
+5️⃣ What are the most common loan purposes?
+✅ Key Insight:
 
-Customer income plays a very important role in loan repayment.
+Debt consolidation loans have the highest loan amount (232M), followed by credit card loans (59M) and car loans (10M).
 
-From the analysis, customers with higher annual income are more likely to repay loans on time. Also, customers whose income is verified or source verified show better repayment behavior compared to non-verified customers.
+📘 Explanation:
 
-This helps banks reduce risk by giving loans to reliable customers.
+Many customers take loans to combine multiple debts into one, making repayment easier. Credit card loans show short-term borrowing behavior, while car loans indicate asset-based lending. This information helps banks design better loan products based on customer needs.
 
-📌 Overall Insights
+6️⃣ How does income verification impact loan performance?
+✅ Key Insight:
+
+Loans with verified or source-verified income show better repayment behavior compared to non-verified income loans.
+
+📘 Explanation:
+
+Income verification ensures that customers have a stable income source. Verified customers are more reliable and have a lower chance of default. This highlights the importance of strict income verification during loan approval.
+
+7️⃣ What is the relationship between customer income and loan amount?
+✅ Key Insight:
+
+Customers with higher annual income tend to take larger loan amounts and show better repayment performance.
+
+📘 Explanation:
+
+Higher-income customers are financially more stable and can handle higher EMIs. This reduces risk for lenders and improves overall loan recovery.
+
+8️⃣ How does employment length affect loan repayment?
+✅ Key Insight:
+
+Customers with longer employment history show better loan repayment behavior compared to customers with short or unstable employment.
+
+📘 Explanation:
+
+Employment length reflects job stability. A stable job provides consistent income, making loan repayment easier. This insight helps banks give preference to customers with longer employment history.
+
+9️⃣ What is the impact of interest rate on loan behavior?
+✅ Key Insight:
+
+Loans with higher interest rates show a higher probability of being charged off.
+
+📘 Explanation:
+
+High interest rates increase monthly installments, making repayment difficult for customers. This insight helps banks balance interest rates to reduce default risk while maintaining profitability.
+
+🔟 What does the dashboard reveal about overall customer risk?
+✅ Key Insight:
+
+Customers with unverified income, high interest rates, and longer loan terms represent higher credit risk.
+
+📘 Explanation:
+
+By combining multiple factors like income, loan term, and interest rate, the dashboard helps identify risky customers early. This allows banks to take preventive actions such as stricter approval or higher security.
 
 From this project, several important conclusions can be drawn:
 
